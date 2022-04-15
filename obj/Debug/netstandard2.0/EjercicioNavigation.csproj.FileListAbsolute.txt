@@ -1,0 +1,12 @@
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\EjercicioNavigation.csproj.AssemblyReference.cache
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\EjercicioNavigation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\CarouselPage1.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\ModalPage1.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\EjercicioNavigation.AssemblyInfoInputs.cache
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\EjercicioNavigation.AssemblyInfo.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\EjercicioNavigation\EjercicioNavigation\EjercicioNavigation\obj\Debug\netstandard2.0\EjercicioNavigation.csproj.CoreCompileInputs.cache

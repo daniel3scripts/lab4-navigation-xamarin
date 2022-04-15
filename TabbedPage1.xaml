@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EjercicioNavigation.TabbedPage1"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core">
+    <ContentPage Title="Tab 1" >
+        <StackLayout>
+            <Button Text="Close" x:Name="btnClose"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Tab 2" >
+        <StackLayout>
+            <Frame BackgroundColor="LightCoral" Padding="24" CornerRadius="0">
+                <Label Text="Congratulations!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+             
+            </Frame>
+            <DatePicker></DatePicker>
+           
+        </StackLayout> 
+
+    </ContentPage>
+    
+    <ContentPage Title="Tab 3">
+        <StackLayout>
+            <Button BackgroundColor="BurlyWood" Text="Arriba Peru !!!">
+            </Button>
+            
+            <TimePicker></TimePicker>
+            
+
+        </StackLayout>
+
+    </ContentPage>
+</TabbedPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EjercicioNavigation.MainPage">
+
+    <StackLayout>
+        <!--<Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Navigations!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>-->
+        <Button x:Name="Item1" Text="Navigation of pages" TextColor="Gray" BackgroundColor="Aquamarine"/>
+        <Button x:Name="Item2" Text="TabbedPage1" TextColor="Gray" BackgroundColor="Aquamarine"/>
+        <Button x:Name="Item3" Text="CarouselPage" TextColor="Gray" BackgroundColor="Aquamarine"/>
+        <Button x:Name="Item5" Text="ModalPages" TextColor="Gray" BackgroundColor="Aquamarine"/>
+        <Button x:Name="Item6" Text="DisplayAlert" TextColor="Gray" BackgroundColor="Aquamarine"/>
+        
+
+    </StackLayout>
+    
+
+</ContentPage>
