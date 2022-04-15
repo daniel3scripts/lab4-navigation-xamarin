@@ -31,7 +31,7 @@ namespace EjercicioNavigation
             Item5.Clicked += async (sender, e) =>
             {
                 //Call Popup
-                await Navigation.PushAsync(new ModalPage1());
+                await Navigation.PushModalAsync(new ModalPage1());
             };
 
             Item6.Clicked += async (sender, e) =>
